@@ -1,0 +1,4 @@
+name = "demopkg"
+description = "demo package for registry test"
+version = "0.1.0"
+keywords = ["demo", "test"]
