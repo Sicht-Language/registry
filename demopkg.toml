@@ -1,4 +1,4 @@
 name = "demopkg"
 description = "demo package for registry test"
-version = "0.2.0"
+version = "0.3.0"
 keywords = ["demo", "terminal"]
